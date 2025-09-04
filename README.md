@@ -9,5 +9,13 @@ I Used Power Pivot to establish relationship, Query to Clean and upload the data
 2) Top 5 Profitable States.
 3) Top 3 least Profitable Product Sub- Categories.
 4) Top 10 most Profitable Cities.
+5) Dashboard Interaction- <a href ="https://github.com/Bajpai777/Excel-Sales-Dashobard-Project/blob/main/Excel%20Sales%20Dashboard.png">View Dashboard</a>
 
-## Dashboard Interaction
+## Process
+- Import file ' Sales Data set ' with use of Power Query.
+- Use Power Pivot to establish relationship, Query to Clean and upload the data into Data Model.
+- Create different Reports, Use maximum features offered in power pivot.
+- Use conditional formatting and Different types of appropriate Graphs/Charts Use Slicers, Timeline, Formatting techniques to create a Dashboard.
+- Analyze the Dataset and Create a Dashboard.
+
+  
