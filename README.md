@@ -2,8 +2,7 @@
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
 ## Dataset Used
-<a href="https://github.com/Bajpai777/Excel-Sales-Dashobard-Project/blob/main/Excel%20Sales%20Dashboard(Power%20Query%2CPower%20Pivot%2CData%20Modelling%2CPivot%20tables%20and%20charts%2Cslicers).xlsx">Excel Dataset</a>
-<a href="https://github.com/Bajpai777/Excel-Sales-Dashobard-Project/blob/main/Sales%20Data%20Set%20for%20Dashboard.xlsx">Sales Dataset</a>
+<a href="https://github.com/Bajpai777/Excel-Sales-Dashobard-Project/blob/main/Excel%20Sales%20Dashboard(Power%20Query%2CPower%20Pivot%2CData%20Modelling%2CPivot%20tables%20and%20charts%2Cslicers).xlsx">Excel Dataset</a> | <a href="https://github.com/Bajpai777/Excel-Sales-Dashobard-Project/blob/main/Sales%20Data%20Set%20for%20Dashboard.xlsx">Sales Dataset</a>
 
 ## Sample Reports:
 1) Most Used Shipment Mode.
